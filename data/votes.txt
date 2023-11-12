@@ -1,0 +1,33 @@
+{
+"id_judge":"6546db6db200af3a28b2e692",
+"id_game":"6546dd99b200af3a28b2e699",
+"gameplay":8,
+"art":9,
+"sound":8,
+"theme":7
+// judge_name: "Día Final" (embebed)
+// game_name: "Rodrigo Fux" (embebed)
+} 
+
+{
+"id_judge":"6546de20b200af3a28b2e69d",
+"id_game":"6546dbb1b200af3a28b2e694",
+"gameplay":3,
+"art":3,
+"sound":3,
+"theme":3
+// judge_name: "Glitch"" (embebed)
+// game_name: "Marcela Terroni" (embebed)
+} 
+
+{
+"id_judge":"6546de04b200af3a28b2e69c",
+"id_game":"6546dd10b200af3a28b2e697",
+"gameplay":9,
+"art":6,
+"sound":5,
+"theme":6
+// judge_name: "Dimension" (embebed)
+// game_name: "Miguel Muñoz" (embebed)
+} 
+ 

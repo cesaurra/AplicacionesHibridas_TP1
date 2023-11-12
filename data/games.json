@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Glitch",
+        "genre": "Suspenso",
+        "members": [
+            "Dario Ferreyra",
+            "Romina Juarez"
+        ],
+        "edition": 2005,
+        "delete": "false"
+    },
+    {
+        "name": "Dimension",
+        "genre": "Terror",
+        "members": [
+            "Anabel Brown",
+            "Melisa French"
+        ],
+        "edition": 2005,
+        "delete": "false"
+    },
+    {
+        "name": "The Loop",
+        "genre": "Suspenso",
+        "members": [
+            "Ernesto Sanchez",
+            "Mirtha Monch"
+        ],
+        "edition": 2015,
+        "delete": "false"
+    }
+]
+
